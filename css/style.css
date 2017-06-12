@@ -5,6 +5,9 @@
  *
  * Made By MaterializeCSS.com
  */
+.color-caption-header{
+  background-color: rgba(33, 33, 33,0.5);
+}
 
 nav ul a,
 nav .brand-logo {
